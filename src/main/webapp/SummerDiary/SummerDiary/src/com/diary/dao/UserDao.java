@@ -13,6 +13,8 @@ public class UserDao {
 		conn = new ConnDB();
 	}
 
+
+
 	// 验证用户登录的方法，返回值为1表示登录成功，否则表示登录失败
 	public int login(User user) {
 		int flag = 0;
@@ -31,6 +33,7 @@ public class UserDao {
 						flag = 0;
 					}
 				} else {
+
 					flag = 0;
 				}
 			} else {
