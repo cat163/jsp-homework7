@@ -1,0 +1,20 @@
+
+f
+java:S1104"PMake conn a static final constant or non-public and provide accessors if needed.(ı¶Ş
+i
+java:S1104"NMake st a static final constant or non-public and provide accessors if needed.(ç®Êºüÿÿÿÿ
+i
+java:S1104"NMake rs a static final constant or non-public and provide accessors if needed.(¥…Ÿùÿÿÿÿ
+X
+java:S2259P"BA "NullPointerException" could be thrown; "conn" is nullable here.(­Œş
+]
+java:S2259>"BA "NullPointerException" could be thrown; "conn" is nullable here.(€óòïùÿÿÿÿ
+=
+java:S3010"(Remove this assignment of "dbClassName".(¥ñc
+=
+java:S3010""Remove this assignment of "dbUrl".(Ö€ÒÏùÿÿÿÿ
+I
+java:S1874("3Remove this use of "newInstance"; it is deprecated.(æóå£
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ÚØ¾Ãÿÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(…‚ıİ
