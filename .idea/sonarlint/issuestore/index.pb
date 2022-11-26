@@ -1,10 +1,6 @@
 
 y
 Isrc/main/webapp/SummerDiary/SummerDiary/WebContent/database/griddiary.sql,6\1\61fd46b7bea7a50bee92a3a6bacead2e8ca8aa98
-}
-Msrc/main/webapp/SummerDiary/SummerDiary/src/com/diary/tools/connDB.properties,7\a\7a67961cf1b4dba5cfaf91f448e49f697b3271c7
-w
-Gsrc/main/webapp/SummerDiary/SummerDiary/src/com/diary/tools/ConnDB.java,a\5\a5234251c1d91b6a68c4b7ac274938bcbb9e1a28
 r
 Bsrc/main/webapp/SummerDiary/SummerDiary/WebContent/WEB-INF/web.xml,e\9\e9c1e5abd58a0fcb218197bc3425be869ff01ee3
 l
@@ -17,5 +13,3 @@ j
 :src/main/webapp/SummerDiary/SummerDiary/WebContent/top.jsp,1\7\17c3a54427342633b56c7f2fa12c73800e601c1a
 p
 @src/main/webapp/SummerDiary/SummerDiary/WebContent/css/style.css,9\7\9734085eab89f9f6e1bf257305cdc9d7dbf69663
-~
-Nsrc/main/webapp/SummerDiary/SummerDiary/src/com/diary/servlet/UserServlet.java,0\5\054a0a23923871327a5dde691bbdfa80870a3532
