@@ -1,10 +1,10 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+<%@ page language="java" isELIgnored="false" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <link type="text/css" rel="stylesheet" href="css/style.css">
 <script src="js/jquery.js"></script>
 <script src="js/common.js"></script>
 <script src="js/AjaxRequest.js"></script>
-
 <div class="header">
 	<!-- 视频 -->
 	<video class="header_video" id="header_video" loop controls autoplay muted>
